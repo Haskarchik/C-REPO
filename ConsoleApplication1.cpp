@@ -17,6 +17,6 @@ int main()
     std::cout << "main: a = " << a << " and b = " << b << std::endl;
    
     std::cout << "Naz LOH";
-    
+    std::cout << "Naz LOH";
     return 0;
 }char(a);
